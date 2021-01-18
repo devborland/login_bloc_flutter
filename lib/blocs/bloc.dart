@@ -18,3 +18,5 @@ class Bloc with Validators {
     _password.close();
   }
 }
+
+Bloc bloc = Bloc();
